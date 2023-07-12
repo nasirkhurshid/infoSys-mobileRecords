@@ -1,2 +1,2 @@
 # infoSys-mobileRecords
-An information system for mobile records implemented in C++ using the list class from the STL.
+An information system for mobile records implemented in C++ using the list class from the STL. This system allows for efficient storage and retrieval of mobile phone records, providing CRUD functionality with advanced search features based on multiple criteria. It also incorporates filter functionality similar to https://www.gsmarena.com/search.php3. All mobile phone records are saved in a file, which is automatically loaded upon program startup and created if it doesn't exist. Any additions, updates, or deletions made by the user are reflected in the file for data consistency.
